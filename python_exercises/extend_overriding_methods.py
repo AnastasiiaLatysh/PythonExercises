@@ -1,4 +1,4 @@
-from overriding_methods import MyList
+from python_exercises.overriding_methods import MyList
 
 
 class MyListSub(MyList):
